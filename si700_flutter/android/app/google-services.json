@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821493975753",
+    "project_id": "vilists-ebad2",
+    "storage_bucket": "vilists-ebad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821493975753:android:edec28c4aff03f63495b18",
+        "android_client_info": {
+          "package_name": "com.example.si700_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821493975753-alliis4v3tu8igrfgj400l9uv8rogon1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbp2ZxXwEmDNoeq7p9EowNNt_-KpxFd-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821493975753-alliis4v3tu8igrfgj400l9uv8rogon1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
